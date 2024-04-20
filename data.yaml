@@ -1,6 +1,10 @@
-train: /content/drive/MyDrive/ANPR_yolov8/dataset/images/train
-val: /content/drive/MyDrive/ANPR_yolov8/dataset/images/val
-test: /content/drive/MyDrive/ANPR_yolov8/dataset/images/test
+train: C:\Users\sharath\Projects\yolov8_ANPR\dataset\train\images
+val: C:\Users\sharath\Projects\yolov8_ANPR\dataset\val\images
+test: C:\Users\sharath\Projects\yolov8_ANPR\dataset\test\images
 
 nc: 1
-names: ['LicensePlate']
+names: ['licence plate']
+
+
+#names: 
+# 0: LicensePlate
